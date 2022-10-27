@@ -1,0 +1,42 @@
+body
+{margin: 0px;
+    background: black;
+ display: flex;
+    justify-content: center;
+
+}
+.first
+{width:500px;
+    height: 200px;
+    border: solid white 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+background: blue;}
+.conteiners
+{width: 520px;
+height: 250px;
+background: white;
+    display: flex;
+justify-content: space-around;
+    align-items: center;
+}
+.conteiner
+{width: 250px;
+    height: 270px;
+    display: flex;
+  box-sizing: border-box;
+    background: blue;
+    justify-content: space-around;
+    align-items: center;
+    border: solid white 10px;
+}
+.last
+{width:500px;
+    height: 262px;
+    border: solid white 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: blue;}
+

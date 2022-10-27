@@ -1,0 +1,42 @@
+body
+{margin: 0;
+padding: 0;
+    background: black;
+box-sizing: border-box}
+.box
+{width:850px;
+ height: 320px;
+    margin: 200px 200px 150px 350px;
+    box-sizing: border-box;
+    background: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    column-gap: 18px;
+
+}
+
+.box2
+{width:260px;
+    height: 260px;
+    background: white;
+    border: 1px solid black;
+}
+h2
+{display: flex;
+justify-content: center;
+}
+p
+{margin: 35px;
+display: flex;
+;
+}
+a
+{ width: 100px;
+    height: 30px;
+    margin: 75px ;
+    border: 1px solid black;
+    display: flex;
+justify-content: center;
+align-content: center;
+text-decoration:none }
