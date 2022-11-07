@@ -1,0 +1,48 @@
+.body
+{margin: 0;
+padding: 0;
+box-sizing: border-box}
+
+.bigbox2022
+{width: 600px;
+height: 400px;
+background: white;
+    margin: 10px 10px 10px 10px;
+    border: solid 5px black;
+    border-radius: 15px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.boxA
+{width: 99%;
+height:35%;
+border: solid 3px white;
+border-radius: 10px;
+display: flex;
+justify-content: center;
+align-items: center;
+background: blue}
+
+.boxB
+{width: 68%;
+    height: 60%;
+    border: solid 3px white ;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: blue;
+}
+
+.boxC
+{
+    width: 30%;
+    height: 60%;
+    border: solid 3px white ;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: blue;
+
+}

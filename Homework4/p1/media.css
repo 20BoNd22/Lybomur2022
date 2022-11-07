@@ -1,0 +1,14 @@
+@media screen and (max-width: 720px){
+.boxA
+{width: 99%;
+height: 24%}
+
+.boxB
+{
+width: 99%;
+height:45% ;
+}
+.boxC
+{width: 99%;
+height: 24%}
+}
